@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: black;
+}
+.conatiner{
+    margin: 20px auto;
+    width: 428px;
+    height: 850px;
+    background-color: #212832;
+   
+}
+.conatiner .logo{
+    position: relative;left: 26px;top: 23px;
+}
+.conatiner .working{
+    position: relative;left: 26px;top: 50px;
+}
+.white{
+    margin-left: 26px;
+    color: #FFFFFF;
+    font-size: 61px;
+    margin-top: 60px;
+}
+.yellow{
+
+    margin-left: 26px;
+    color:#FED36A;
+    font-size: 61px;
+
+}
+.conatiner button{
+    width: 376px;
+    height: 67px;
+    margin-left: 26px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #FED36A;
+}
